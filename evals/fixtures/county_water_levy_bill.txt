@@ -1,0 +1,33 @@
+SYNTHETIC TEST FIXTURE - NOT REAL BILL TEXT. Written for Bunge Watch's automated tests; no such bill exists.
+
+THE COUNTY WATER SERVICES (LEVY) BILL, 2099
+
+A Bill for AN ACT of Parliament to establish a water conservation levy, provide for exemptions and create the
+Water Conservation Fund.
+
+Clause 1. Short title and commencement
+This Act may be cited as the County Water Services (Levy) Act, 2099 and shall come into operation on the first
+day of July, 2099.
+
+Clause 2. Water conservation levy
+(1) There shall be charged a water conservation levy of two per cent of the amount billed by every licensed water
+service provider to a commercial customer.
+(2) The levy shall be collected by the water service provider and remitted to the county treasury by the
+twentieth day of the following month.
+
+Clause 3. Exemptions
+The levy shall not be charged on water supplied to households, public schools, public hospitals or places of
+worship.
+
+Clause 4. Water Conservation Fund
+(1) There is established a Water Conservation Fund into which all money collected under clause 2 shall be paid.
+(2) The Fund shall be used to protect water catchment areas, repair leaking pipes and drill boreholes in
+arid areas.
+
+Clause 5. Late remittance
+A water service provider who fails to remit the levy on time shall pay a penalty of five per cent of the unpaid
+amount for each month or part of a month that it remains unpaid.
+
+Clause 6. Annual report
+The county executive committee member responsible for water shall, within three months after the end of each
+financial year, submit a report on the Fund to the county assembly.

@@ -23,6 +23,7 @@
    Mombasa.
 6. **OCR for very large scans** (over 32 MB) so they can be summarised too.
 7. **Web frontend.** Simple, fast pages that work on low-end phones, with a Kiswahili-first toggle.
+8. **Ask the bills.** Clause-cited Q&A with an accuracy eval ([docs/RAG.md](docs/RAG.md)); next: a real ~50-question golden set.
 
 ## Open questions
 

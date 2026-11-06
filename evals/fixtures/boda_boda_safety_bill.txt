@@ -1,0 +1,49 @@
+SYNTHETIC TEST FIXTURE - NOT REAL BILL TEXT. Written for Bunge Watch's automated tests; no such bill exists.
+
+THE BODA BODA SAFETY BILL, 2099
+
+A Bill for AN ACT of Parliament to provide for the registration of motorcycle taxi operators, rider training and
+passenger safety, and for connected purposes.
+
+ENACTED by the Parliament of Kenya, as follows-
+
+PART I - PRELIMINARY
+
+1. Short title
+This Act may be cited as the Boda Boda Safety Act, 2099.
+
+2. Interpretation
+In this Act, unless the context otherwise requires-
+"county registrar" means the officer appointed by a county government under section 4;
+"rider" means a person who carries a passenger on a motorcycle for hire or reward.
+
+PART II - REGISTRATION AND TRAINING
+
+3. Registration of riders
+(1) A person shall not operate a motorcycle for hire unless registered with the county registrar.
+(2) The county registrar shall issue each registered rider with a reflective jacket bearing a registration
+number.
+
+4. Training
+(1) Every rider shall complete a road safety training course of not less than forty hours before registration.
+(2) The training course shall be offered free of charge at every county vocational training centre.
+
+PART III - PASSENGER SAFETY AND OFFENCES
+
+5. Helmets
+(1) A rider shall provide every passenger with a helmet that meets the standard set by the Kenya Bureau of
+Standards.
+(2) A rider shall not carry more than one passenger at a time.
+
+6. Offences and penalties
+(1) A rider who contravenes section 5 commits an offence and is liable on conviction to a fine not exceeding
+ten thousand shillings.
+(2) A person who operates a motorcycle for hire without registration commits an offence and is liable to a fine
+not exceeding twenty thousand shillings or to imprisonment for a term not exceeding three months, or to both.
+
+FIRST SCHEDULE
+CONTENTS OF THE TRAINING COURSE
+
+1. Traffic rules and road signs.
+2. First aid for road accident victims.
+3. Defensive riding in wet weather.
