@@ -5,6 +5,7 @@ from __future__ import annotations
 from fastapi import FastAPI, HTTPException
 
 from . import store
+from .rag.routes import create_router as ask_router
 
 
 def create_app(db_path: str) -> FastAPI:
@@ -26,4 +27,5 @@ def create_app(db_path: str) -> FastAPI:
             raise HTTPException(status_code=404, detail="Bill not found")
         return found
 
+    app.include_router(ask_router(db_path))
     return app

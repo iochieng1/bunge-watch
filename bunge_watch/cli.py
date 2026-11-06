@@ -8,6 +8,7 @@ import os
 import sys
 
 from . import pdftext, scraper, store
+from .rag import cli as rag_cli
 
 DEFAULT_DB = os.environ.get("BUNGE_WATCH_DB", "bunge_watch.db")
 
@@ -96,6 +97,8 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--host", default="127.0.0.1")
     p.add_argument("--port", type=int, default=8000)
     p.set_defaults(func=cmd_serve)
+
+    rag_cli.add_commands(sub)
 
     args = parser.parse_args(argv)
     args.func(args)
