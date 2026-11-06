@@ -10,3 +10,14 @@ jobs:
           python-version: "3.12"
       - run: pip install -e '.[dev]'
       - run: pytest -q
+      # Retrieval accuracy on the synthetic fixtures with the offline fake embedder: no API keys, no downloads.
+      - run: bunge-watch eval --corpus evals/fixtures/corpus.json --embedder fake --retrieval-only --min-recall 0.8
+  gitleaks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install gitleaks
+        run: curl -sSfL https://github.com/gitleaks/gitleaks/releases/download/v8.21.2/gitleaks_8.21.2_linux_x64.tar.gz | tar -xz gitleaks
+      - run: ./gitleaks git --redact --verbose .

@@ -74,6 +74,12 @@ Claude client is faked in tests, so they cost nothing.
 - **Safety fallback.** Requests opt into the API's server-side `fallbacks: "default"`, so a classifier decline is
   retried on Anthropic's recommended fallback model instead of failing.
 
+## Ask the bills (experimental)
+
+`bunge-watch index`, `bunge-watch ask "<question>"` and an opt-in `POST /ask` answer questions in English or
+Kiswahili from the bills' own clauses, quoting the exact clause, and `bunge-watch eval` measures how accurate that
+is. See [docs/RAG.md](docs/RAG.md).
+
 ## Related
 
 [Public-Participation-Platform](https://github.com/iochieng1/Public-Participation-Platform) is the citizen-facing
