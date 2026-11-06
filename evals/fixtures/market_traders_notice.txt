@@ -1,0 +1,14 @@
+SYNTHETIC TEST FIXTURE - NOT REAL BILL TEXT. Written for Bunge Watch's automated tests; no such bill exists.
+This excerpt deliberately has no clause numbering, to exercise the fixed-size fallback chunker.
+
+Memorandum on the proposed Open Air Markets (Traders' Welfare) Bill, 2099. The proposal would require every
+county government to provide clean toilets, running water and lighting in each open air market that has more
+than one hundred registered traders. Market committees elected by the traders themselves would manage the
+facilities and report quarterly to the county department responsible for trade.
+
+The proposal also caps the daily market fee that a county may charge a trader at fifty shillings, and requires
+that the fee be paid through a mobile money paybill with a receipt sent to the trader. Counties that charge more
+than the cap would have to refund the excess within thirty days.
+
+Traders who sell perishable food would be entitled to a shaded stall with drainage. Hawkers who are not
+registered would be given ninety days to register before any enforcement action is taken against them.

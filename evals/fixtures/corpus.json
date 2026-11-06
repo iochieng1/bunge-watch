@@ -1,0 +1,8 @@
+{
+  "_note": "SYNTHETIC TEST FIXTURES - NOT REAL BILL TEXT. Invented excerpts used only to test the RAG pipeline in CI. Bill ids start at 9001 so they never collide with real bills.",
+  "bills": [
+    {"bill_id": 9001, "title": "The Boda Boda Safety Bill, 2099 (synthetic fixture)", "file": "boda_boda_safety_bill.txt"},
+    {"bill_id": 9002, "title": "The County Water Services (Levy) Bill, 2099 (synthetic fixture)", "file": "county_water_levy_bill.txt"},
+    {"bill_id": 9003, "title": "Open Air Markets (Traders' Welfare) memorandum, 2099 (synthetic fixture)", "file": "market_traders_notice.txt"}
+  ]
+}
